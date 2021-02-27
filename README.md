@@ -3,9 +3,9 @@ Phone app that will recive notification
 
 -----------------------------------Set up  ---------------------------------------------------------------------------
 
-Set up firebase : https://firebase.google.com/docs/android/setup#console
+Set up firebase : https://firebase.google.com/docs/android/setup#console  
 
-You will get "google-services.json" at Option 1 - Step 3 when set up Fire base
+You will get "google-services.json" at Option 1 - Step 3 when set up Fire base  
 place google-services.json at this location android/app/google-services.json
 
 -----------------------------------Optional  ---------------------------------------------------------------------------
