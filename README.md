@@ -11,7 +11,7 @@ place google-services.json at this location android/app/google-services.json
 -----------------------------------Optional  ---------------------------------------------------------------------------
 
 
-Update "my-upload-key.keystore" at this location "android/app/my-upload-key.keystore" for release the app 
+Update "my-upload-key.keystore" at this location "android/app/my-upload-key.keystore" for release the app   
 How to do it: https://reactnative.dev/docs/signed-apk-android  
 
 
