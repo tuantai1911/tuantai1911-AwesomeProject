@@ -16,6 +16,10 @@ Update "my-upload-key.keystore" at this location "android/app/my-upload-key.keys
 How to do it: https://reactnative.dev/docs/signed-apk-android  
 
 
-You can use this project to send Notification to this APP 
+You can use this project to send Notification to this APP   
 Link:https://github.com/tuantai1911/DemoNotificationApi
 
+
+-----------------------------------Demo  ---------------------------------------------------------------------------
+Setup video: https://www.youtube.com/watch?v=v-5hyfMbUs0&feature=youtu.be
+Demo video: https://www.youtube.com/watch?v=_nfez2kQGxk&feature=youtu.be
